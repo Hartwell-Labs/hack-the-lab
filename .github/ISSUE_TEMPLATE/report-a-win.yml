@@ -1,0 +1,45 @@
+name: 🎯 Challenge submission
+description: Zgłoś rozwiązanie challenge z CHALLENGES.md (jeśli bug jest bezpieczny do publicznego opisu)
+title: "[CHALLENGE] "
+labels: ["challenge"]
+body:
+  - type: dropdown
+    id: challenge
+    attributes:
+      label: Challenge
+      options:
+        - "AUR-01 — Aurora VFS escape"
+        - "EXT-01 — Externum sandbox escape"
+        - "TAL-01 — quiet ransomware vs talus"
+    validations:
+      required: true
+  - type: textarea
+    id: poc
+    attributes:
+      label: PoC / kroki
+      description: Kod, nagranie, config — cokolwiek, co da się odtworzyć.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Wpływ
+      description: Co atakujący mógłby z tym zrobić?
+    validations:
+      required: true
+  - type: input
+    id: handle
+    attributes:
+      label: Nick do Hall of Fame
+      description: Jak mamy Cię zapisać? (nick + opcjonalny link)
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Zasady
+      options:
+        - label: Testowałem wyłącznie na własnym sprzęcie/labie
+          required: true
+        - label: Zgadzam się na coordinated disclosure (opis publiczny po fixie)
+          required: true
