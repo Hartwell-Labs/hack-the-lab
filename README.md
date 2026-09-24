@@ -1,4 +1,17 @@
-# 🎯 Hack the Lab
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hartwell-Labs/.github/main/profile/assets/hartwell-logo.svg" width="72" alt="Hartwell Labs" />
+
+## Hack the Lab
+
+Break our products before someone else does — challenges, CVE credits, Hall of Fame.
+
+[![Challenges](https://img.shields.io/badge/security-challenges%20·%20CVE-F15A24?style=flat-square&logo=hackthebox)](.)
+[![License](https://img.shields.io/badge/license-MIT-F15A24?style=flat-square)](LICENSE) [![Website](https://img.shields.io/badge/site-hartwell--labs.github.io-4f46e5?style=flat-square)](https://hartwell-labs.github.io)
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security](https://hartwell-labs.github.io/security/) · [Hack the Lab](https://github.com/Hartwell-Labs/hack-the-lab)
+
+</div>
 
 **Złam nasze produkty, zanim zrobi to ktoś inny.**
 
@@ -60,5 +73,16 @@ szczycie HoF z odznaką 🥇.
 — hack us. please.
 
 [![Hack the Lab](https://img.shields.io/badge/%F0%9F%8E%AF-hack%20the%20lab-F15A24?style=for-the-badge)](https://github.com/Hartwell-Labs/hack-the-lab)
+
+</div>
+---
+
+<div align="center">
+
+**[Hartwell Labs](https://github.com/Hartwell-Labs)** — security systems, languages and tools, built in the open.
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security policy](https://hartwell-labs.github.io/security/) · [Report a vulnerability](https://hartwell-labs.github.io/security/)
+
+<sub>MIT License · © 2026 Hartwell Labs</sub>
 
 </div>
